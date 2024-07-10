@@ -14,6 +14,8 @@
 		0D08FFB02BB4B21500BED40F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D08FFAE2BB4B21500BED40F /* LaunchScreen.storyboard */; };
 		0D08FFB82BB4B36A00BED40F /* ViewCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D08FFB72BB4B36A00BED40F /* ViewCode.swift */; };
 		0D08FFBA2BB4B3BB00BED40F /* PrincipalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D08FFB92BB4B3BB00BED40F /* PrincipalView.swift */; };
+		0D4FD1742C1F360900D40549 /* KanyeApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4FD1732C1F360900D40549 /* KanyeApi.swift */; };
+		0D4FD1762C1F375C00D40549 /* Phrases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4FD1752C1F375C00D40549 /* Phrases.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		0D08FFB12BB4B21500BED40F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D08FFB72BB4B36A00BED40F /* ViewCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCode.swift; sourceTree = "<group>"; };
 		0D08FFB92BB4B3BB00BED40F /* PrincipalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrincipalView.swift; sourceTree = "<group>"; };
+		0D4FD1732C1F360900D40549 /* KanyeApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KanyeApi.swift; sourceTree = "<group>"; };
+		0D4FD1752C1F375C00D40549 /* Phrases.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phrases.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				0D08FFB12BB4B21500BED40F /* Info.plist */,
 				0D08FFB72BB4B36A00BED40F /* ViewCode.swift */,
 				0D08FFB92BB4B3BB00BED40F /* PrincipalView.swift */,
+				0D4FD1732C1F360900D40549 /* KanyeApi.swift */,
+				0D4FD1752C1F375C00D40549 /* Phrases.swift */,
 			);
 			path = KanyeRest;
 			sourceTree = "<group>";
@@ -143,8 +149,10 @@
 				0D08FFBA2BB4B3BB00BED40F /* PrincipalView.swift in Sources */,
 				0D08FFA82BB4B21100BED40F /* ViewController.swift in Sources */,
 				0D08FFA42BB4B21100BED40F /* AppDelegate.swift in Sources */,
+				0D4FD1742C1F360900D40549 /* KanyeApi.swift in Sources */,
 				0D08FFA62BB4B21100BED40F /* SceneDelegate.swift in Sources */,
 				0D08FFB82BB4B36A00BED40F /* ViewCode.swift in Sources */,
+				0D4FD1762C1F375C00D40549 /* Phrases.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
