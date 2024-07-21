@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
     }
     private func setupUI() {
-        self.view.backgroundColor = .systemGreen
+        self.view.backgroundColor = .royalBlue
         self.view.addSubview(button)
         self.button.translatesAutoresizingMaskIntoConstraints = false
         NSLayoutConstraint.activate([
